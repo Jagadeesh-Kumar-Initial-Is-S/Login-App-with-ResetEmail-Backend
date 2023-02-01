@@ -55,25 +55,25 @@ Back-end Deployed URL's link is equal to https://login-app-with-resetemail-serve
 
 # POST Methods
 
-/register // register user
-/registerMail // send the email
-/authenticate // authenticate user
-/login // login in app
+/register // register user <br/>
+/registerMail // send the email<br/>
+/authenticate // authenticate user<br/>
+/login // login in app<br/>
 
 <hr/>
 
 # GET Methods 
 
-/user/:username // user with username
-/generateOTP // generate random OTP
-/verifyOTP // verify generated OTP
-/createResetSession // reset all the variables
+/user/:username // user with username<br/>
+/generateOTP // generate random OTP<br/>
+/verifyOTP // verify generated OTP<br/>
+/createResetSession // reset all the variables<br/>
 
 <hr/>
 
 # PUT Methods 
 
-/updateuser // is use to update the user profile
-/resetPassword // use to reset password
+/updateuser // is use to update the user profile<br/>
+/resetPassword // use to reset password<br/>
 
 <hr/>
